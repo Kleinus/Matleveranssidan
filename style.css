@@ -1,0 +1,68 @@
+.body {
+    font-family: Arial;
+    margin: 0;
+  }
+  
+  .header {
+    background: #bc1a1a;
+    color: rgb(255, 255, 255);
+    font-size: 30px;
+    display: flex;
+  }
+
+  .text1{
+    padding-right: 150px;
+    padding-left: 30px;
+    padding-top: 7px;
+    color: black;
+    text-decoration: none;
+}
+
+.upptext{
+  margin-top: 100px;
+  margin-left: 50px;
+}
+
+img{
+ border-radius: 30%;
+}
+
+.taco_bild1{
+  padding-left: 2100px;
+  margin-bottom: 40px;
+}
+
+.taco_bild2{
+  padding-left: 50px;
+  display: flex;
+  justify-content: space-around;
+  
+}
+
+.tacohus{
+  padding-top: 100px;
+  padding-left: 1500px;
+}
+
+.about {
+margin-left: 1200px;
+}
+
+.about_text {
+margin-left: 50px;
+margin-top: 60px;
+}
+
+.meny {
+display: flex;
+justify-content: space-around;
+justify-content: space-between;
+margin-top: 100px;
+margin-left: 60px;
+margin-right: 60px;
+}
+
+.order{
+  justify-content: center;
+  margin-left: 1200px;
+}
